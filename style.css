@@ -20,6 +20,41 @@
 
 }
 
+#nav{
+    padding-top: 8px;
+    background-color: black;
+    margin: 0;
+
+  
+    
+}
+
+#navList{
+      list-style-type: none;
+  margin: 0;
+  padding-top: 8px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navList a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#navLi{
+    float: right;
+display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+
+
 span{
     color:#00C70D;
 }
