@@ -1,7 +1,10 @@
-#header{
+/* Kyle Perry*/
+/* CIT 263 */
+/*3/8/2020 */
+
+#header{ /* This it the top of the screen, the background for title*/
    
-    height: 180px;
-    width:1,000px;
+    height: 180px; 
     color:white;
     background-image:  url("images/green_pixels.png");
     background-size: cover;
@@ -9,7 +12,7 @@
     padding-top:30px;
 }
 
-#header2{
+#header2{ /*The title card with company logo and motto */
     width:450px;
     height: 120px;
     margin-left: 50px;
@@ -21,7 +24,7 @@
 }
 
 #nav{
-    padding-top: 8px;
+    padding-top: 8px; /*Anything "nav" edits the navbar */
     background-color: black;
     margin: 0;
 
@@ -41,7 +44,7 @@
   display: block;
   color: white;
   text-align: center;
-  padding-top 8px 
+  padding-top 8px; 
 }
 
 #navLi{
@@ -60,8 +63,13 @@ span{
     color:#00C70D;
 }
 
+#monthlyNews{
+    float: ;
+}
+
 .footer {
    position: relative;
+   bottom: 0;
    height:90px;
    padding-top:10px;
    width: 100%;
@@ -71,7 +79,12 @@ span{
    font-size: 12px;
 }
 
+.footer a{
+    color:white;
+}
+
 img{
  height: 30px;
   width: 30px;
 }
+
