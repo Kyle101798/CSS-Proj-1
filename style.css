@@ -1,0 +1,25 @@
+#header{
+   
+    height: 180px;
+    width:1,000px;
+    color:white;
+    background-image:  url("images/green_pixels.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top:30px;
+}
+
+#header2{
+    width:450px;
+    height: 120px;
+    margin-left: 50px;
+    border: 10px solid black;
+    background-image:  url("images/metal.jpg");
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+span{
+    color:#00C70D;
+}
